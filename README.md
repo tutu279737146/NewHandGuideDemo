@@ -1,2 +1,5 @@
 # NewHandGuideDemo
 新手引导页,点击图片消失
+
+适合于UI给切图的新手引导页;
+若需要新手引导页点击的同时,app相应的内容界面也要更改,可在方法加入tabbar参数,传入UITabBarController来切换tabbar或者跳转相应的界面
